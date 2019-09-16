@@ -6,6 +6,14 @@
 
 ![screen](./img/application.png)
 
+- requirement : `npm`, `react`, `react-native`, `expo`, `android-studio`
+
+**실행**
+
+`git clone`
+
+`cmd` -> `expo start` -> `android-studio 실행` -> `a`
+
 1. state 및 기본 변수 설정
 
 **class**
